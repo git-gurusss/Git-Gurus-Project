@@ -1,0 +1,7 @@
+What I’ve Learned So Far in Git:  
+- Initializing repositories  
+- Cloning repositories  
+- Creating, switching, and merging branches  
+- Staging and committing changes  
+- Using .gitignore files  
+- Pushing changes to remote repositories  
